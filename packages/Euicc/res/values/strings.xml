@@ -14,7 +14,12 @@
                         \"fuxi\",
                         \"garnet\",
                         \"nuwa\",
-                        \"ziyi\"
+                        \"ziyi\",
+                        \"pudding\",
+                        \"nezha\",
+                        \"myron\",
+                        \"athens\",
+                        \"songyuan\"
                     ],
                     \"esim-slot-ids\": [
                         1
@@ -36,7 +41,12 @@
                         \"fuxi\",
                         \"garnet\",
                         \"nuwa\",
-                        \"ziyi\"
+                        \"ziyi\",
+                        \"pudding\",
+                        \"nezha\",
+                        \"myron\",
+                        \"athens\",
+                        \"songyuan\"
                     ],
                     \"illustration_lottie\": \"sim_illustration_lottie_bottom\"
                 }
